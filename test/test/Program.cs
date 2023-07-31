@@ -14,6 +14,11 @@ namespace test
 
             int a = 22;
             Console.WriteLine(a);
+
+            int b = 10;
+            int c = 20;
+            int result = b + c;
+            Console.WriteLine(result);
         }
     }
 }
